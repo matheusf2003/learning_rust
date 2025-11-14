@@ -1,0 +1,5 @@
+target/
+testes/
+sandbox/
+rust_1_48/
+tmp/
